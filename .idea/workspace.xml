@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d087741b-0a43-4bc4-b83b-5c314c3b99fa" name="Default Changelist" comment="" />
+    <list default="true" id="d087741b-0a43-4bc4-b83b-5c314c3b99fa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FileContentMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WO0syebEQeR3EuOTdKkhFgHVZC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,9 +30,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.FileCharacterWordWithMaxCount">
+  <component name="RunManager" selected="Application.FileContentMatch">
     <configuration name="FileCharCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileCharCount" />
       <module name="NewProject" />
@@ -39,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletoneDemo" />
+    <configuration name="FileContentMatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileContentMatch" />
       <module name="NewProject" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadClassExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ThreadClassExample" />
+    <configuration name="SingletoneDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletoneDemo" />
       <module name="NewProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -62,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileContentMatch" />
         <item itemvalue="Application.FileCharacterWordWithMaxCount" />
         <item itemvalue="Application.ThreadExamplePool" />
         <item itemvalue="Application.SingletoneDemo" />
         <item itemvalue="Application.FileCharCount" />
-        <item itemvalue="Application.ThreadClassExample" />
       </list>
     </recent_temporary>
   </component>
@@ -100,45 +109,53 @@
       <screen x="0" y="27" width="1366" height="702" />
     </state>
     <state x="366" y="106" width="624" height="551" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1366.702@0.27.1366.702" timestamp="1579679427908" />
+    <state x="392" y="84" width="571" height="594" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1579681274516">
+      <screen x="0" y="27" width="1366" height="702" />
+    </state>
+    <state x="392" y="84" width="571" height="594" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.27.1366.702@0.27.1366.702" timestamp="1579681274516" />
     <state width="458" height="466" key="DebuggerActiveHint" timestamp="1579061914333">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="458" height="466" key="DebuggerActiveHint/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579061914333" />
-    <state width="1320" height="287" key="GridCell.Tab.0.bottom" timestamp="1579680084610">
+    <state width="1320" height="287" key="GridCell.Tab.0.bottom" timestamp="1579688708904">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state width="1320" height="287" key="GridCell.Tab.0.bottom/0.27.1366.702@0.27.1366.702" timestamp="1579680084610" />
+    <state width="1320" height="287" key="GridCell.Tab.0.bottom/0.27.1366.702@0.27.1366.702" timestamp="1579688708904" />
     <state width="1320" height="287" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579511618475" />
-    <state width="1320" height="287" key="GridCell.Tab.0.center" timestamp="1579680084610">
+    <state width="1320" height="287" key="GridCell.Tab.0.center" timestamp="1579688708903">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state width="1320" height="287" key="GridCell.Tab.0.center/0.27.1366.702@0.27.1366.702" timestamp="1579680084610" />
+    <state width="1320" height="287" key="GridCell.Tab.0.center/0.27.1366.702@0.27.1366.702" timestamp="1579688708903" />
     <state width="1320" height="287" key="GridCell.Tab.0.center/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579511618474" />
-    <state width="1320" height="287" key="GridCell.Tab.0.left" timestamp="1579680084609">
+    <state width="1320" height="287" key="GridCell.Tab.0.left" timestamp="1579688708902">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state width="1320" height="287" key="GridCell.Tab.0.left/0.27.1366.702@0.27.1366.702" timestamp="1579680084609" />
+    <state width="1320" height="287" key="GridCell.Tab.0.left/0.27.1366.702@0.27.1366.702" timestamp="1579688708902" />
     <state width="1320" height="287" key="GridCell.Tab.0.left/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579511618474" />
-    <state width="1320" height="287" key="GridCell.Tab.0.right" timestamp="1579680084610">
+    <state width="1320" height="287" key="GridCell.Tab.0.right" timestamp="1579688708904">
       <screen x="0" y="27" width="1366" height="702" />
     </state>
-    <state width="1320" height="287" key="GridCell.Tab.0.right/0.27.1366.702@0.27.1366.702" timestamp="1579680084610" />
+    <state width="1320" height="287" key="GridCell.Tab.0.right/0.27.1366.702@0.27.1366.702" timestamp="1579688708904" />
     <state width="1320" height="287" key="GridCell.Tab.0.right/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579511618475" />
-    <state width="1320" height="200" key="GridCell.Tab.1.bottom" timestamp="1579062922411">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom" timestamp="1579681392002">
+      <screen x="0" y="27" width="1366" height="702" />
     </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.bottom/0.27.1366.702@0.27.1366.702" timestamp="1579681392002" />
     <state width="1320" height="200" key="GridCell.Tab.1.bottom/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579062922411" />
-    <state width="1320" height="200" key="GridCell.Tab.1.center" timestamp="1579062922411">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1320" height="200" key="GridCell.Tab.1.center" timestamp="1579681392001">
+      <screen x="0" y="27" width="1366" height="702" />
     </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.center/0.27.1366.702@0.27.1366.702" timestamp="1579681392001" />
     <state width="1320" height="200" key="GridCell.Tab.1.center/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579062922411" />
-    <state width="1320" height="200" key="GridCell.Tab.1.left" timestamp="1579062922411">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1320" height="200" key="GridCell.Tab.1.left" timestamp="1579681392001">
+      <screen x="0" y="27" width="1366" height="702" />
     </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.left/0.27.1366.702@0.27.1366.702" timestamp="1579681392001" />
     <state width="1320" height="200" key="GridCell.Tab.1.left/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579062922411" />
-    <state width="1320" height="200" key="GridCell.Tab.1.right" timestamp="1579062922411">
-      <screen x="1366" y="0" width="1366" height="768" />
+    <state width="1320" height="200" key="GridCell.Tab.1.right" timestamp="1579681392002">
+      <screen x="0" y="27" width="1366" height="702" />
     </state>
+    <state width="1320" height="200" key="GridCell.Tab.1.right/0.27.1366.702@0.27.1366.702" timestamp="1579681392002" />
     <state width="1320" height="200" key="GridCell.Tab.1.right/1366.0.1366.768/0.27.1366.702@1366.0.1366.768" timestamp="1579062922411" />
     <state x="1366" y="27" width="1356" height="702" key="new project wizard" timestamp="1579068423355">
       <screen x="1366" y="0" width="1366" height="768" />
